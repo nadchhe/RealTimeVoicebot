@@ -77,5 +77,4 @@ Support additional languages and transcription formats.
 Enhance the avatar customization options for a more personalized experience
 
 
-**License**
-This project is licensed under the MIT License - see the LICENSE file for details.
+
