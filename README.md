@@ -17,6 +17,10 @@ This is useful for scenarios where you need to capture the audio on the fly.
 In this notebook, you can manually upload an audio file for transcription.
 This option is ideal when you already have audio files and want to transcribe them.
 
+**RealTimeVoiceRecFinal(eng and ara) Notebook:(Final Update)**
+
+This Notebook is a powerful voice recognition tool that supports both English and Arabic speech. This project utilizes advanced neural network technology from Neural Space for Text-to-Speech (TTS) capabilities, allowing the application to dynamically detect and process the language of audio recorded by the user.
+
 
 # How It Works
 
